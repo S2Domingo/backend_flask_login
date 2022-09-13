@@ -1,0 +1,11 @@
+# python
+*.pyo
+*.pyc
+.idea/
+venv/
+
+# vim
+*.swp
+*.swo
+
+# flask
